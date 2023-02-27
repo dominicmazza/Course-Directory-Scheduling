@@ -8,7 +8,9 @@ Enter some inputs to generate the schedule: room, courses, times, teachers, and 
 
 Here are some example inputs:
 rooms = 5
+
 courses = "Org & Arch, Advanced Algorithms, Database Systems, AI, Robotics, Machine Learning, Mobile App Development"
+
 times = "9:30am, 12:30pm, 2pm"
 teachers = "Joel, Shannon, Duke, Elizabeth, Ryan"
 coreqs = "Robotics Machine Learning"
