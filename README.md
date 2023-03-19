@@ -1,5 +1,5 @@
 # Course-Directory-Scheduling
-Treating scheduling like a constraint satisfaction problem, I wrote AI program that used backtracking search to create a course directory for a school or program.
+AI program that treating course directory scheduling like a constraint satisfaction problem. The prgogram uses backtracking search to create a course directory for a school or program.
 Class Scheduling to make a directory	         	         	Description:
 This program creates a class schedule directory by taking in a number of rooms, some courses, times for the courses, teachers, and corequisites. The program creates this schedule such that no corequisites are being taught simultaneously, no teachers are teaching two different courses simultaneously, and every class inputted must be scheduled.
 
